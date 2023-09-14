@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Sample Video
+
+https://github.com/raunakwete43/MediSync_Patient/assets/104648854/26142ae9-61b9-4f3b-ab55-319f338c014f
+
